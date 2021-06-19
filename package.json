@@ -1,0 +1,24 @@
+{
+  "name": "short_express_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PazzeG/short_express_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PazzeG/short_express_api/issues"
+  },
+  "homepage": "https://github.com/PazzeG/short_express_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
